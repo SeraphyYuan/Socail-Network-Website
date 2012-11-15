@@ -1,0 +1,8 @@
+This is a project of Database class
+Implemented a social network website has function as following:
+  1. Register UserName, log in with username
+  2. Search friends and add friends
+  3. Post and Comment on the wall
+  4. Chat with friend
+  5. Post Advertisement on the wall
+  6. Buy product on the website
